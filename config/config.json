@@ -1,0 +1,17 @@
+
+{
+  "clientId": "785560045151977503",
+  "token": "Nzg1NTYwMDQ1MTUxOTc3NTAz.X85nzQ.DYQekKpR1y7aXo0A8YRnkhlck_0",
+
+  "language": "en",
+  "prefix": "!",
+  "acceptedExtensions": [".mp3", ".wav", ".m4a"],
+  "maximumFileSize": 1000000,
+  "volume": 1.0,
+  "deleteMessages": false,
+  "stayInChannel": true,
+  "timeout": 0,
+  "deafen": true,
+  "game": "SoundBoard",
+  "elevatedRoles": ["admin"]
+}
